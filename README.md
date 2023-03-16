@@ -40,5 +40,5 @@ data after removing all NULL values.
 
 ## Result
 
-![alt text](https://github.com/Dhrumil-1997/Covid19_Prediction/blob/main/Resnet50.png)
+![alt text](https://github.com/Dhrumil-1997/Fake-News-Detection/blob/main/Screenshot%202023-03-15%20214514.png)
 
